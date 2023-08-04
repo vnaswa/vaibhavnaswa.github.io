@@ -28,13 +28,37 @@ a {
 }
 
 /* Percentage Classes */
+.ninety-five-percent {
+  width: 95%;
+  height: inherit;
+}
+
 .eighty-five-percent {
   width: 85%;
   height: inherit;
 }
 
+.seventy-five-percent {
+  width: 75%;
+  height: inherit;
+}
+
+.sixty-five-percent {
+  width: 65%;
+  height: inherit;
+}
+
+.fifty-five-percent {
+  width: 55%;
+  height: inherit;
+}
 .fifty-percent {
   width: 50%;
+  height: inherit;
+}
+
+.forty-five-percent {
+  width: 45%;
   height: inherit;
 }
 
