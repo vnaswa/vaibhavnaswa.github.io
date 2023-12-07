@@ -254,19 +254,19 @@ section:nth-child(2n) {
   box-shadow: 4px 0px 4px 0px grey;
 }
 
-#skill-1, #skill-5 {
+#skill-1, #skill-5, #skill-9 {
   background-color: dodgerblue;
 }
 
-#skill-2 {
+#skill-2, #skill-6, #skill-10 {
   background-color: orangered;
 }
 
-#skill-4 {
+#skill-3, #skill-7, #skill-11 {
   background-color: green;
 }
 
-#skill-3, #skill-6 {
+#skill-4, #skill-8, #skill-12 {
   background-color: palevioletred;
 }
 
